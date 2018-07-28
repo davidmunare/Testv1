@@ -1,0 +1,42 @@
+
+
+#box1{
+float: left; margin-right: 5px;
+	
+}
+
+.box1a{
+	float: left;
+	margin: 10px; 
+
+}
+
+#logobox1{
+	position: absolute;
+	left: 50%;
+	width: 200px;
+	margin-left: -50px;
+}
+
+#box2{
+float: right; margin-left: 5px;
+	
+}
+
+.box2a{
+	float: right;
+	margin: 10px; 
+
+}
+
+#box3{
+	clear: both;
+	
+
+}
+
+.box3a{
+	float: left;
+	margin: 10px; 
+
+}
